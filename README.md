@@ -8,7 +8,7 @@
 ### Education & Work
 <p>:mortar_board: M.S. in Computer Engineering at <strong>New York University</strong></p>
 <p>:briefcase: Graduate Assistant at <strong>New York University</strong></p>
-<P>:trophy: The Stock Exchange of Thailand Full-Time Scholarship Recipient<p>
+<P>:trophy: <strong>The Stock Exchange of Thailand</strong> Full-Time Scholarship Recipient<p>
 
 ### Technologies
 <img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/fluency/42/000000/matlab.png"/>
