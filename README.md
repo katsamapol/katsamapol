@@ -7,7 +7,7 @@
 
 ### Education & Work
 <p>:mortar_board: M.S. in Computer Engineering at <strong>New York University</strong></p>
-<p>:briefcase: xx</p>
+<p>:briefcase: Graduate Assistant @ NYU Tandon School of Engineering</p>
 
 ### Technologies
 <img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/fluency/42/000000/matlab.png"/>
