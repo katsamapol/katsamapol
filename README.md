@@ -15,4 +15,4 @@
 <img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/fluency/42/000000/matlab.png"/>
 
 ### Contact me
- <a href="https://www.linkedin.com/in/katsamapol/"><img src="https://img.shields.io/badge/-katsamapol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katsamapol/" /></a> <a href="mailto:katsamapetch@gmail.com"><img src="https://img.shields.io/badge/-katsamapetch@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katsamapetch@gmail.com" /></a>
+ <a href="https://www.linkedin.com/in/katsamapol/"><img src="https://img.shields.io/badge/-katsamapol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katsamapol/" /></a> <a href="mailto:katsamapol@gmail.com"><img src="https://img.shields.io/badge/-katsamapol@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katsamapol@gmail.com" /></a>
