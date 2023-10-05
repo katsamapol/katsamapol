@@ -3,11 +3,12 @@
 
 ### About myself
 <p>:globe_with_meridians: Passionate about applying my academic knowledge in a practical and efficient way to develop purposeful hardware and software.</p>
-<p>:thailand: From Bangkok, Thailand | :us: Living in Brooklyn, New York</p>
-
+<!-- <p>:thailand: From Bangkok, Thailand | :us: Living in Brooklyn, New York</p> -->
+<p>:thailand: From Bangkok, Thailand </p>
+ 
 ### Education & Work
 <p>:mortar_board: M.S. in Computer Engineering at <strong>New York University</strong></p>
-<p>:briefcase: Graduate Assistant at <strong>New York University</strong></p>
+<p>:briefcase: Assistant Manager - Digital Marketing at <strong>The Stock Exchange of Thailand</strong></p>
 <P>:trophy: <strong>The Stock Exchange of Thailand</strong> Full-Time Scholarship Recipient<p>
 
 ### Technologies
